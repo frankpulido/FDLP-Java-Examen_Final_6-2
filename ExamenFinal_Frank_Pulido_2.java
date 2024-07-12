@@ -13,10 +13,11 @@ public class ExamenFinal_Frank_Pulido_2 {
 		// TODO Auto-generated method stub
 		
 		/*
-		 * El enunciado del Examen "insinuaba" que la creación de la Estantería de productos debía ser un Array. La razón :
+		 * El enunciado del Examen "insinuaba" que la creación de la Estantería de productos debía ser un Array.
+		 * La razón :
 		 * Decía que al incorporar un producto nuevo éste debía tomar la "primera posición libre". Los ArrayLists siempre incorporan
 		 * los productos al final no en posiciones intermedias. Al eliminar un objeto en una posición intermedia el ArrayList se acorta
-		 * y todas las posiciones de ín dice superior a la eliminada se reindexan. El Array en cambio vacía el valor de esta posición
+		 * y todas las posiciones de índice superior a la eliminada se reindexan. El Array en cambio vacía el valor de esta posición
 		 * sin cambiar su tamaño ni reindexar ubicación de los objetos.
 		 */
 		
